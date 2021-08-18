@@ -1,3 +1,7 @@
+To run the project you should install node modules. Open the project folder in commannd prompt and run:
+
+### `npm install`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
