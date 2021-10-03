@@ -1,6 +1,6 @@
 ## The Link:
 
-`https://gameofthrones-aeda2.web.app/`
+https://gameofthrones-aeda2.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
